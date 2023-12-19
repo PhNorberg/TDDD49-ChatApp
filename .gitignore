@@ -1,0 +1,15 @@
+# Ignore all bin and obj folders
+**/bin/
+**/obj/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# IDE - Visual Studio
+.vs/
